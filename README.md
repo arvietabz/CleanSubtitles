@@ -6,4 +6,5 @@ Put the "Clean Subtitles" folder in your folder directory containing your subtit
 It can also detect the subfolders containing .srt files.
 
 Check out "patterns.txt" for list of text to remove in your subtitles seperated by new lines.
-Run the "clean_subs.bat" to run CleanSubtitles
+
+Run the "clean_subs.bat" to run CleanSubtitles.
